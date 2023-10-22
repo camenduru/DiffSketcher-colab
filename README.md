@@ -19,4 +19,5 @@ https://ximinng.github.io/DiffSketcher-project/
 
 ## Output
 
-https://github.com/camenduru/DiffSketcher-colab/assets/54370274/105f532a-7da5-4d8e-a689-8f9db5816308
+https://github.com/camenduru/DiffSketcher-colab/assets/54370274/ffe301c3-47a8-4afe-82d3-97a9921612fb
+
